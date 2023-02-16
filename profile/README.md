@@ -1,36 +1,18 @@
-# Hasidic Developers Group - `< hdg />`
+# Hasidic Development Group - `< hdg />`
 
-<img src="hasidic.png" />
-
-- [What We Do](#what-we-do)
-- [Top Repos](#top-repos)
-- [Available Teams](#available-teams)
-- [Communicate With Us](#communications-with-the-team)
+https://hasidic.dev
 
 ## What We Do...
 
-Mainly we build websites, discord bots, and design logos. We are a small group of developers who network and communicate on Discord. If you are interested in joining our teams or contributing to any of our projects, please read the CONTRIBUTING doc in `hasidicdevs/Docs/` at this time we do not accept contributions from outside our group. We have a couple npm packages and we run a website. This is a simple profile readme and is updated as we grow. Our main website is https://hasidic.dev it is owned by @yosileyid and most of the work done so far has been done by him. We are looking for more jewish developers whether new or old to get involved with this project. 
+Mainly we build websites, discord bots, and design logos. We are a small group of developers who network and communicate on Discord. We own and operate an "open source" business. We invite anyone interested to come join our team and if you are interested, our teams or contributing to any of our projects, please read the CONTRIBUTING doc in [`hdg-docs/`](https://github.com/hasidicdevs/hdg-docs) or on our website...
 
+# Open Sourced Business
 
-## Top Repos
+We are an open sourced business. That means all of our documents and organizational information is open sourced. Our projects (including client work) are all available online in public repos. If you see a typo on someones site or an error in the code feel free to correct that and send us a PR. Our earnings and shareholder information is available online. We also welcome outside people to jump in on projects and get paid with us.
 
-- [@hdg-bot](https://github.com/hasidicdevs/hdg-bot): This is a simple npm package to facilitate creating new discord bots.
-- [@hdg/docs](https://github.com/hasidicdevs/Docs): Org documentation
-- [@hdg/web](https://github.com/hasidicdevs/website): Org website
-- [@hdg/discussions](https://github.com/orgs/hasidicdevs/discussions): Org Discussions (Public)
+## Shomer Shabbat
 
-## Available Teams
-- @hasidicdevs/web
-- @hasidicdevs/bots
-- @hasidicdevs/graphics
-- @hasidicdevs/api
-
-## Communications With The Team
-
-- [[Discord Server: HDG Support]](https://discord.com/invite/mWepccFCQh)
-- [[HDG Forums: @hasidicdevs/Discussions]](https://github.com/orgs/hasidicdevs/Discussions)
-- [[Bot Boards: @hasidicdevs/hdg-bot]](https://github.com/orgs/hasidicdevs/projects/4)
-- [[Web Boards: @hasidicdevs/hdg-web]](https://github.com/orgs/hasidicdevs/projects/2)
+No contributions or PRs on shabbat
 
 ### LICENSE
 
