@@ -6,3 +6,4 @@ This is a list of all accepted contributions to the project and their initial co
 |:--------------|:-----------|:-------------|:---------------------|:--------------------|
 | b2e1d8664dc502ddee037fd29fd4cb411697a418 | [@yosileyid](https://github.com/yosileyid) | Yosi Leyid | [yosi@hasidic.dev](mailto:yosi@hasidic.dev) | hdg-web |
 | 9f9c487da2349b533193263239cd559de98aca32 | [@SoticOfficial](https://github.com/SoticOfficial) | Liam Sotic | [sotic@hasidic.dev](mailto:sotic@hasidic.dev)  | hdg-web |
+| 1b7d6801f55188185fb73bcf51c97443dec31ff2 | [@Smokeyoy](https://github.com/Smokeyoy)  | Abby Shanker | [smokeyoy@hasidic.dev](mailto:smokeyoy@github.com) | hdg-web |
